@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bugBlast.png" width="8124" height="5650" spritePadding="2" borderPadding="2">
+	<SubTexture name="bugBlast0001" x="2" y="4008" width="1534" height="531" frameX="-2583" frameY="-49" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0002" x="6077" y="2" width="2045" height="490" frameX="-1922" frameY="-47" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0003" x="2" y="2" width="2644" height="471" frameX="-1607" frameY="-67" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0004" x="5379" y="4042" width="2364" height="538" frameX="-1526" frameY="-3" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0005" x="3843" y="5110" width="2822" height="538" frameX="-1244" frameY="-1" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0006" x="2648" y="2" width="3427" height="488" frameX="-986" frameY="-50" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0007" x="4559" y="2500" width="2816" height="503" frameX="-1105" frameY="-26" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0008" x="3633" y="3514" width="3249" height="526" frameX="-869" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0009" x="2" y="492" width="3929" height="495" frameX="-589" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0010" x="4559" y="3005" width="3180" height="507" frameX="-768" frameY="-22" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0011" x="2" y="3482" width="3629" height="524" frameX="-536" frameY="-13" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0012" x="3486" y="997" width="4469" height="495" frameX="-160" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0013" x="3933" y="494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0014" x="1538" y="4042" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0015" x="2" y="1494" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0016" x="2" y="989" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0017" x="2" y="4570" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0018" x="2" y="1991" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0019" x="4559" y="1494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0020" x="3843" y="4582" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0021" x="2" y="2488" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0022" x="4559" y="1997" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0023" x="2" y="5098" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0024" x="2" y="2985" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0025" x="3933" y="494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0026" x="1538" y="4042" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0027" x="2" y="1494" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0028" x="2" y="989" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0029" x="2" y="4570" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0030" x="2" y="1991" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0031" x="4559" y="1494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0032" x="3843" y="4582" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0033" x="2" y="2488" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0034" x="4559" y="1997" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0035" x="2" y="5098" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0036" x="2" y="2985" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0037" x="3933" y="494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0038" x="1538" y="4042" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0039" x="2" y="1494" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0040" x="2" y="989" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0041" x="2" y="4570" width="3839" height="526" frameX="-353" frameY="-11" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0042" x="2" y="1991" width="4555" height="495" frameX="-93" frameY="-43" frameWidth="4739" frameHeight="706"/>
+	<SubTexture name="bugBlast0043" x="4559" y="1494" width="3482" height="501" frameX="-488" frameY="-28" frameWidth="4739" frameHeight="706"/>
+</TextureAtlas>
