@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kissy-missy-christmas.png" width="976" height="7795" spritePadding="3" borderPadding="3">
+	<SubTexture name="cheer0000" x="3" y="7308" width="918" height="484" rotated="true" frameX="-110" frameY="-94" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0001" x="3" y="7308" width="918" height="484" rotated="true" frameX="-110" frameY="-94" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0002" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0003" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0004" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0005" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0006" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="cheer0007" x="489" y="6392" width="484" height="912" frameX="-110" frameY="-100" frameWidth="713" frameHeight="1075"/>
+	<SubTexture name="dance0000" x="3" y="911" width="483" height="907" frameX="0" frameY="-6" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0001" x="3" y="911" width="483" height="907" frameX="0" frameY="-6" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0002" x="3" y="6392" width="483" height="913" frameX="0" frameY="0" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0003" x="3" y="6392" width="483" height="913" frameX="0" frameY="0" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0004" x="489" y="4562" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0005" x="489" y="4562" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0006" x="3" y="5477" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0007" x="3" y="5477" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0008" x="3" y="2734" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0009" x="3" y="2734" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0010" x="489" y="2734" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0011" x="489" y="2734" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0012" x="489" y="2734" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0013" x="3" y="3648" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0014" x="3" y="3648" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0015" x="3" y="3" width="483" height="903" frameX="0" frameY="-10" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0016" x="3" y="3" width="483" height="903" frameX="0" frameY="-10" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0017" x="489" y="3" width="483" height="905" frameX="0" frameY="-8" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0018" x="489" y="3" width="483" height="905" frameX="0" frameY="-8" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0019" x="490" y="1821" width="483" height="910" frameX="0" frameY="-3" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0020" x="490" y="1821" width="483" height="910" frameX="0" frameY="-3" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0021" x="489" y="3648" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0022" x="489" y="3648" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0023" x="3" y="4562" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0024" x="3" y="4562" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0025" x="3" y="4562" width="483" height="911" frameX="0" frameY="-2" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0026" x="489" y="5477" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="dance0027" x="489" y="5477" width="483" height="912" frameX="0" frameY="-1" frameWidth="483" frameHeight="913"/>
+	<SubTexture name="sad0000" x="489" y="911" width="484" height="906" frameX="-142" frameY="-71" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0001" x="489" y="911" width="484" height="906" frameX="-142" frameY="-71" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0002" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0003" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0004" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0005" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0006" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+	<SubTexture name="sad0007" x="3" y="1821" width="484" height="908" frameX="-142" frameY="-69" frameWidth="728" frameHeight="999"/>
+</TextureAtlas>

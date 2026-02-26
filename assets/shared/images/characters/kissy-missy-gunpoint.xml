@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kissy-missy-gunpoint.png" width="3678" height="4619" spritePadding="2" borderPadding="2">
+	<SubTexture name="cheer0001" x="1840" y="1850" width="913" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0002" x="1840" y="1850" width="913" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0003" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0004" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0005" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0006" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0007" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="cheer0008" x="2749" y="2774" width="910" height="922" rotated="true" frameX="0" frameY="-3" frameWidth="922" frameHeight="913"/>
+	<SubTexture name="dance0001" x="2" y="2774" width="913" height="920" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0002" x="2" y="2774" width="913" height="920" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0003" x="926" y="3698" width="911" height="919" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0004" x="926" y="3698" width="911" height="919" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0005" x="2755" y="1850" width="917" height="917" frameX="-2" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0006" x="2755" y="1850" width="917" height="917" frameX="-2" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0007" x="2" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0008" x="921" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0009" x="1840" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0010" x="1840" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0011" x="2759" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0012" x="2759" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0013" x="2759" y="2" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0014" x="2" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0015" x="2" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0016" x="917" y="2774" width="913" height="920" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0017" x="917" y="2774" width="913" height="920" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0018" x="1839" y="3698" width="911" height="919" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0019" x="1839" y="3698" width="911" height="919" frameX="-5" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0020" x="1832" y="2774" width="915" height="917" rotated="true" frameX="-2" frameY="-2" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0021" x="1832" y="2774" width="915" height="917" rotated="true" frameX="-2" frameY="-2" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0022" x="921" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0023" x="1840" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0024" x="2759" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0025" x="2759" y="926" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0026" x="2" y="1850" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0027" x="921" y="1850" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="dance0028" x="921" y="1850" width="917" height="922" rotated="true" frameX="0" frameY="0" frameWidth="922" frameHeight="920"/>
+	<SubTexture name="sad0001" x="2752" y="3698" width="922" height="905" frameX="0" frameY="-4" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0002" x="2752" y="3698" width="922" height="905" frameX="0" frameY="-4" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0003" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0004" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0005" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0006" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0007" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+	<SubTexture name="sad0008" x="2" y="3698" width="922" height="909" frameX="0" frameY="0" frameWidth="922" frameHeight="909"/>
+</TextureAtlas>

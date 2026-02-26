@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kissy-missy-pixel.png" width="310" height="358" spritePadding="2" borderPadding="2">
+	<SubTexture name="dance0001" x="233" y="121" width="75" height="116" frameX="-17" frameY="-28" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0002" x="233" y="121" width="75" height="116" frameX="-17" frameY="-28" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0003" x="2" y="2" width="75" height="118" frameX="-17" frameY="-26" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0004" x="2" y="2" width="75" height="118" frameX="-17" frameY="-26" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0005" x="79" y="2" width="75" height="118" frameX="-17" frameY="-26" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0006" x="79" y="2" width="75" height="118" frameX="-17" frameY="-26" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0007" x="2" y="122" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0008" x="2" y="122" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0009" x="79" y="122" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0010" x="79" y="122" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0011" x="156" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0012" x="156" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0013" x="156" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0014" x="156" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0015" x="156" y="240" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0016" x="156" y="240" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0017" x="2" y="241" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0018" x="2" y="241" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0019" x="79" y="241" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0020" x="79" y="241" width="75" height="115" frameX="-17" frameY="-29" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0021" x="233" y="239" width="75" height="116" frameX="-17" frameY="-28" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0022" x="233" y="239" width="75" height="116" frameX="-17" frameY="-28" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0023" x="156" y="121" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0024" x="156" y="121" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0025" x="233" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0026" x="233" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0027" x="233" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+	<SubTexture name="dance0028" x="233" y="2" width="75" height="117" frameX="-17" frameY="-27" frameWidth="108" frameHeight="153"/>
+</TextureAtlas>
