@@ -1,0 +1,45 @@
+{
+	"storyName": "WHAT ONE IS YOUR HAPPY",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"im-huggy",
+			"huggy",
+			[
+				0,
+				81,
+				217
+			]
+		],
+		[
+			"buggin",
+			"huggy",
+			[
+				0,
+				81,
+				217
+			]
+		],
+		[
+			"hap",
+			"huggy",
+			[
+				0,
+				81,
+				217
+			]
+		]
+	],
+	"weekCharacters": [
+		"huggy",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Huggy Mix"
+}
