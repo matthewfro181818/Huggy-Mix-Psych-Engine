@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle story flipped0",
+	"image": "huggy",
+	"position": [-20, -40],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.6,
+	"confirm_anim": "idle story flipped0"
+}
