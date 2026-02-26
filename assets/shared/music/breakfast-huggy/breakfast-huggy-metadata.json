@@ -1,0 +1,9 @@
+{
+  "timeFormat": "ms",
+  "artist": "Sakuroll",
+  "songName": "Pause Menu (Huggy Wuggy)",
+  "timeChanges": [{ "d": 4, "n": 4, "t": 0, "bt": [4, 4, 4, 4], "bpm": 77.5 }],
+  "generatedBy": "Manual (by DaPootisBird)",
+  "looped": true,
+  "version": "2.0.0"
+}
