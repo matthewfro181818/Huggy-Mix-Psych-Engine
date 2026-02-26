@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="adamsandler.png">
+<SubTexture name="adamsandler idle0000" x="3088" y="0" width="392" height="998" frameX="-437" frameY="-166" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler idle0001" x="2697" y="0" width="391" height="1003" frameX="-437" frameY="-161" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler idle0002" x="2307" y="0" width="390" height="1006" frameX="-438" frameY="-158" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler idle0003" x="1337" y="1096" width="387" height="1014" frameX="-439" frameY="-150" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler idle0004" x="1724" y="1096" width="389" height="1011" frameX="-438" frameY="-153" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler left0000" x="0" y="0" width="539" height="1096" frameX="-388" frameY="-69" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler left0001" x="539" y="0" width="528" height="1091" frameX="-397" frameY="-74" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler left0002" x="1067" y="0" width="519" height="1088" frameX="-397" frameY="-77" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler up0000" x="1586" y="0" width="721" height="1063" frameX="-257" frameY="-102" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler up0001" x="0" y="1096" width="690" height="1053" frameX="-265" frameY="-112" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler up0002" x="690" y="1096" width="647" height="1046" frameX="-292" frameY="-119" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler down0000" x="1457" y="2545" width="920" height="386" frameX="-186" frameY="-764" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler down0001" x="2346" y="2149" width="895" height="394" frameX="-203" frameY="-756" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler down0002" x="1457" y="2149" width="889" height="396" frameX="-207" frameY="-754" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler right0000" x="944" y="2149" width="513" height="919" frameX="-473" frameY="-198" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler right0001" x="0" y="2149" width="481" height="920" frameX="-472" frameY="-197" frameWidth="1238" frameHeight="1235" />
+<SubTexture name="adamsandler right0002" x="481" y="2149" width="463" height="920" frameX="-472" frameY="-196" frameWidth="1238" frameHeight="1235" />
+</TextureAtlas>

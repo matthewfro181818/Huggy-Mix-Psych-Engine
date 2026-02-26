@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="kissyDancing.png" width="3133" height="3370" spritePadding="2" borderPadding="2">
+	<SubTexture name="dodge0001" x="2632" y="1649" width="483" height="790" frameX="0" frameY="0" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0002" x="2632" y="1649" width="483" height="790" frameX="0" frameY="0" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0003" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0004" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0005" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0006" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0007" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="dodge0008" x="2648" y="820" width="483" height="783" frameX="0" frameY="-7" frameWidth="483" frameHeight="790"/>
+	<SubTexture name="kissyCaramelldansen0001" x="508" y="2" width="501" height="861" frameX="-41" frameY="0" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0002" x="508" y="2" width="501" height="861" frameX="-41" frameY="0" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0003" x="1013" y="861" width="518" height="853" frameX="-41" frameY="-8" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0004" x="1013" y="861" width="518" height="853" frameX="-41" frameY="-8" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0005" x="1533" y="853" width="525" height="844" frameX="-41" frameY="-17" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0006" x="2510" y="2" width="579" height="816" frameX="-41" frameY="-45" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0007" x="2510" y="2" width="579" height="816" frameX="-41" frameY="-45" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0008" x="2060" y="1649" width="570" height="820" frameX="-41" frameY="-41" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0009" x="2060" y="1649" width="570" height="820" frameX="-41" frameY="-41" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0010" x="973" y="1730" width="561" height="820" frameX="-41" frameY="-41" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0011" x="2" y="867" width="501" height="861" frameX="-41" frameY="0" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0012" x="2" y="867" width="501" height="861" frameX="-41" frameY="0" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0013" x="1011" y="2" width="504" height="857" frameX="-41" frameY="-4" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0014" x="1011" y="2" width="504" height="857" frameX="-41" frameY="-4" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0015" x="1517" y="2" width="505" height="849" frameX="-41" frameY="-12" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0016" x="2286" y="2471" width="532" height="803" frameX="0" frameY="-58" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0017" x="2286" y="2471" width="532" height="803" frameX="0" frameY="-58" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0018" x="2" y="2554" width="539" height="814" frameX="-4" frameY="-47" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0019" x="2" y="2554" width="539" height="814" frameX="-4" frameY="-47" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="kissyCaramelldansen0020" x="543" y="2554" width="532" height="814" frameX="-11" frameY="-47" frameWidth="620" frameHeight="861"/>
+	<SubTexture name="preCaramell0001" x="2024" y="2" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0002" x="2024" y="2" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0003" x="2024" y="2" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0004" x="2024" y="2" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0005" x="2024" y="2" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0006" x="2" y="1730" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0007" x="2" y="1730" width="484" height="822" frameX="-39" frameY="-59" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0008" x="2060" y="826" width="586" height="821" frameX="-6" frameY="-60" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0009" x="2060" y="826" width="586" height="821" frameX="-6" frameY="-60" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0010" x="1077" y="2552" width="612" height="813" frameX="-2" frameY="-68" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0011" x="1077" y="2552" width="612" height="813" frameX="-2" frameY="-68" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0012" x="1691" y="2521" width="593" height="813" frameX="-11" frameY="-68" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0013" x="1691" y="2521" width="593" height="813" frameX="-11" frameY="-68" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0014" x="505" y="867" width="506" height="861" frameX="-39" frameY="-20" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0015" x="505" y="867" width="506" height="861" frameX="-39" frameY="-20" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0016" x="2" y="2" width="504" height="863" frameX="-39" frameY="-18" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="preCaramell0017" x="2" y="2" width="504" height="863" frameX="-39" frameY="-18" frameWidth="614" frameHeight="881"/>
+	<SubTexture name="what the hell0001" x="1536" y="1699" width="483" height="820" frameX="-225" frameY="-77" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0002" x="1536" y="1699" width="483" height="820" frameX="-225" frameY="-77" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0003" x="1536" y="1699" width="483" height="820" frameX="-225" frameY="-77" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0004" x="1536" y="1699" width="483" height="820" frameX="-225" frameY="-77" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0005" x="1536" y="1699" width="483" height="820" frameX="-225" frameY="-77" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0006" x="488" y="1730" width="483" height="822" frameX="-225" frameY="-75" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0007" x="488" y="1730" width="483" height="822" frameX="-225" frameY="-75" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0008" x="488" y="1730" width="483" height="822" frameX="-225" frameY="-75" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0009" x="488" y="1730" width="483" height="822" frameX="-225" frameY="-75" frameWidth="809" frameHeight="952"/>
+	<SubTexture name="what the hell0010" x="488" y="1730" width="483" height="822" frameX="-225" frameY="-75" frameWidth="809" frameHeight="952"/>
+</TextureAtlas>
